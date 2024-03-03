@@ -1,0 +1,21 @@
+C:\Users\Varia\PycharmProjects\menu_base>pyuic5 -x ui_menu2.ui -o design.py
+
+cd C:\Users\Varia\PycharmProjects\menu_base>pyuic5 -x ui_menu3.ui -o design_light.py
+
+cd C:\Users\Varia\PycharmProjects\menu_base>pyuic5 -x login.ui -o login.py
+
+cd C:\Users\Varia\PycharmProjects\menu_base>pyuic5 -x new_window_preview.ui -o new_window_preview.py
+
+############################
+ОБЫЧНЫЙ ПОЛЬЗОВАТЕЛЬ
+
+login: profitt_user
+password: 60013478
+
+############################
+SUPER_ADMIN
+
+login: profitt_admin
+password: 30361861_super
+
+############################
